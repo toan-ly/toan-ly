@@ -1,6 +1,6 @@
 ![MasterHead](https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science.png)
 <h1 align="center">Hi 👋, I'm Quoc-Toan Ly!</h1>
-<h3 align="center">I'm a third-year Computer Science major at University of Cincinnati</h3>
+<h3 align="center">I'm a junior Computer Science major at University of Cincinnati</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
