@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/phonlamaiphoto/phonlamaiphoto1904/phonlamaiphoto190400135/121625240-machine-learning-concept-with-3d-rendering-robot-learning-or-solving-math-problems.jpg)
+![MasterHead](background.png)
 <h1 align="center">Hello 👋, I'm Quoc-Toan Ly!</h1>
 <h3 align="center">I'm a junior Computer Science major at University of Cincinnati</h3>
 <h3 align="center">Highly interested in AI, Machine Learning, and Deep Learning</h3>
