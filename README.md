@@ -1,5 +1,5 @@
 ![MasterHead](background.png)
-<h1 align="center">Hello 👋, I'm Quoc-Toan Ly!</h1>
+<h1 align="center">Hi there 👋, I'm Quoc-Toan Ly!</h1>
 <h3 align="left">🌱 I'm a junior Computer Science major at University of Cincinnati</h3>
 <h3 align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), and I'm constantly exploring new ways to leverage these technologies to solve real-world problems</h3>
 
