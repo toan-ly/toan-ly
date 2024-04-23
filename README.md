@@ -1,13 +1,12 @@
 ![MasterHead](background.png)
 <h1 align="center">Hi there 👋, I'm Quoc-Toan Ly!</h1>
-<h3 align="left">🌱 I'm a junior Computer Science major at University of Cincinnati</h3>
-<h3 align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), and I'm constantly exploring new ways to leverage these technologies to solve real-world problems</h3>
+<p align="left">🌱 I'm a junior Computer Science major at University of Cincinnati</p>
+<p align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). These fields fascinate me for their ability to solve complex problems and their deep connection to mathematics, a subject I've always loved</p>
+<p align="left">🚀 I'm constantly exploring new ways to leverage these technologies to solve real-world problems</p>
+<p align="left">📫 How to reach me [toanly0521@gmail.com](mailto:toanly0521@gmail.com) or [lytq@mail.uc.edu](mailto:lytq@mail.uc.edu)</p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toan-ly&label=Profile%20views&color=0e75b6&style=flat" alt="toan-ly" /> </p>
-
-- 📫 How to reach me **toanly0521@gmail.com** or **lytq@mail.uc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
