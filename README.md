@@ -1,8 +1,9 @@
 ![MasterHead](background.png)
-<h1 align="center">Hi there 👋, I'm Quoc-Toan Ly!</h1>
+<h1 align="center">Hi there 👋, I'm Quoc-Toan Ly, you can call me Toan!</h1>
 <p align="left">🌱 I'm a junior Computer Science major at University of Cincinnati</p>
-<p align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). These fields fascinate me for their ability to solve complex problems and their deep connection to mathematics, a subject I've always loved</p>
-<p align="left">🚀 I'm constantly exploring new ways to leverage these technologies to solve real-world problems</p>
+<p align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). There's something magical about how they solve complex problems using math, which has always fascinated me. </p>
+<p align="left">🚀 I'm constantly exploring new ways to leverage these technologies to tackle real-life challenges</p>
+<p align="left">🎲 Outside of coding, I love sports, particularly tennis, basketball, and volleyball. I also love sharpening my strategic thinking through chess</p>
 <p align="left">📫 How to reach me <a href="mailto:toanly0521@gmail.com" class="button">toanly0521@gmail.com</a> or <a href="mailto:lytq@mail.uc.edu" class="button">lytq@mail.uc.edu</a></p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -28,12 +29,18 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   
 </p>
 
+<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toan-ly&show_icons=true&locale=en&layout=compact" alt="toan-ly" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=toan-ly&show_icons=true&locale=en" alt="toan-ly" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=toan-ly&" alt="toan-ly" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toan-ly&show_icons=true&locale=en" alt="toan-ly" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toan-ly&" alt="toan-ly" /></p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toan-ly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=toan-ly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=toan-ly&theme=dark&hide_border=false)<br/>
