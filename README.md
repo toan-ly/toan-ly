@@ -39,8 +39,35 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=toan-ly&show_icons=true&locale=en" alt="toan-ly" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=toan-ly&" alt="toan-ly" /></p>
 
--->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toan-ly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=toan-ly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=toan-ly&theme=dark&hide_border=false)<br/>
+<p align="center">
+<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=toan-ly&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Toan's wakatime stats"/></a>
+</p>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toan-ly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toan-ly&layout=compact&theme=gotham&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+
+<a href="https://github.com/toan-ly?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=toan-ly&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Toan's github-readme-stats"/>
+</a>
+
+<a href="https://github.com/toan-ly?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=toan-ly&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Toan's github-readme-streak-stats"/>
+</a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=toan-ly&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
