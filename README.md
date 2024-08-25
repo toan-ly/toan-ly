@@ -1,9 +1,9 @@
 ![MasterHead](background.png)
 <h1 align="center">Hi there 👋, I'm Quoc-Toan Ly, you can call me Toan!</h1>
-<p align="left">🌱 I'm a junior Computer Science major at University of Cincinnati</p>
-<p align="left">⚡ I'm passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). There's something magical about how these technologies solve complex problems through mathematical principles, which has always fascinated me </p>
-<p align="left">🚀 I'm constantly exploring new ways to leverage these technologies to tackle real-life challenges</p>
-<p align="left">🎲 Outside of coding, I love sports, particularly tennis, basketball, and volleyball. I also love sharpening my strategic thinking through chess</p>
+<p align="left">🌱 I'm a senior Computer Science major at the University of Cincinnati, with a minor in Mathematics</p>
+<p align="left">⚡ I'm deeply passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). The elegance of using mathematical principles to solve complex problems never ceases to captivate me </p>
+<p align="left">🚀 I'm always on the lookout for new ways to leverage these technologies to tackle real-world challenges and drive innovation</p>
+<p align="left">🎲 Outside of tech and coding, I love sports, particularly tennis, basketball, and volleyball. I also enjoy sharpening my strategic thinking through chess</p>
 <p align="left">📫 How to reach me <a href="mailto:toanly0521@gmail.com" class="button">toanly0521@gmail.com</a> or <a href="mailto:lytq@mail.uc.edu" class="button">lytq@mail.uc.edu</a></p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
