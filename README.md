@@ -1,5 +1,12 @@
 ![MasterHead](background.png)
+
 <h1 align="center">Hi there 👋, I'm Quoc-Toan Ly, you can call me Toan!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&height=80&lines=AI%2FML%2FDL+Enthusiast" alt="Typing SVG">
+</p>
+
+
 <p align="left">🌱 I'm a senior Computer Science major at the University of Cincinnati, with a minor in Mathematics</p>
 <p align="left">⚡ I'm deeply passionate about Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). The elegance of using mathematical principles to solve complex problems never ceases to captivate me </p>
 <p align="left">🚀 I'm always on the lookout for new ways to leverage these technologies to tackle real-world challenges and drive innovation</p>
