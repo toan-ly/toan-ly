@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Quoc-Toan Ly, you can call me Toan!</h1>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&height=80&lines=AI%2FML%2FDL+Enthusiast" alt="Typing SVG">
 </p>
+-->
 
 
 <p align="left">🌱 I'm a senior Computer Science major at the University of Cincinnati, with a minor in Mathematics</p>
