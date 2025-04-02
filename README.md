@@ -1,6 +1,6 @@
 ![MasterHead](background.png)
 
-<h1 align="center">Hi there 👋, I'm Quoc-Toan Ly, feel free to call me Toan!</h1>
+<h1 align="center">Hi there 👋, I'm Toan!</h1>
 
 <!--
 <p align="center">
