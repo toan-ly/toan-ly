@@ -9,9 +9,3 @@
 
 
 
-### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/toan-ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toan-ly" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/toan-ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toan-ly" height="30" width="40" /></a>
-</p>
-
